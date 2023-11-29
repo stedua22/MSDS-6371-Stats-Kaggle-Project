@@ -7,3 +7,6 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 
 The entire process will be done in R and SAS. SAS is used for the first analysis question and variable selection.
 
+## Data
+Please click to access data. [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+
