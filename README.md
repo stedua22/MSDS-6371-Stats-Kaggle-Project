@@ -10,3 +10,10 @@ The entire process will be done in R and SAS. SAS is used for the first analysis
 ## Data
 Please click to access data. [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
+## Data Description
+The Ames Housing dataset was compiled by Dean De Cock, and is available to download via Kaggle.com. While the entire training data set examines 1460 observations of 79 different variables of home ownership in Ames, Iowa, for example, square footage, lot size, number of bathrooms, number of bedrooms, etc, more information about all the variables can be found on the Kaggle website. For the first analysis we focused on what our client, Century 21, is interested in, which includes how the sales price of a home is related to the square footage of the living area of the house  and if the SalesPrice (and its relationship to square footage) depends on which neighborhood the house is located in the three neighborhoods they sell in, which are the NAmes, Edwards, and BrkSide neighborhoods. For the second analysis, we will consider all neighborhoods and we conducted four separate types of regression stepwise, forward, and backward, and a custom model. 
+
+## Contributors
+Stephanie Duarte duartes@mail.smu.edu
+
+David Camacho dicamacho@mail.smu.edu
